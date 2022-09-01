@@ -22,8 +22,8 @@ title: c1ph3rbnuk's catalogue
 email: c1ph3rbnuk@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A library of what i do.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "my_blog" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "my_blog" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: c1ph3rbnuk
 github_username:  c1ph3rbnuk
 bio: >-
@@ -31,6 +31,7 @@ bio: >-
 
 # Build settings
 theme: jekyll-text-theme
+remote: jekyll-text-theme
 plugins:
   - jekyll-feed
   - jekyll-paginate
