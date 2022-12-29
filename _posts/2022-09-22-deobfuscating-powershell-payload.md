@@ -5,6 +5,7 @@ article_type: BlogPosting
 date: 2022-09-22
 cover: "/assets/images/cobalt.png"
 permalink: /:title.html
+tags: "malware obfuscation powershell"
 ---
 
 **Code obfuscation** is a common technique that malware authors implement through splitting and formatting command strings, randomization of variables, encoding or even more often adding garbage to their code by including pieces of code that do useless things like functions and variables that are entirely  never used throughout the program. All these just as a means of trying to evade and bypass Anti-virus and all the detection techniques in place.
