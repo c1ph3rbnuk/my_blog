@@ -8,7 +8,7 @@ permalink: /about/
 
  {% highlight bash %}
     $ whoami
-        I'm c1ph3rbnuk. A DFIR enthusisast and Malware analysis lover. I move on "Doing what you can with what you have!"
+        I'm c1ph3rbnuk. A DFIR enthusisast and Malware analysis lover. I do what scares me the most!!
 
 {% endhighlight %}
 
