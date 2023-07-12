@@ -1,4 +1,14 @@
 header:
+  - titles:
+      # @start locale config
+      en      : &EN       Achievements
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      # @end locale config
+    url: achievements
+    
   - titles: 
       # @start locale config
       en      : &EN       Archive
@@ -22,7 +32,7 @@ header:
       fr-FR   : *FR
       fr-LU   : *FR
       # @end locale config
-    url: /archive.html
+    url: archive
 
   - titles:
       # @start locale config
@@ -48,3 +58,4 @@ header:
       fr-LU   : *FR
       # @end locale config
     url: about
+

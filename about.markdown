@@ -12,4 +12,4 @@ permalink: /about/
 
 {% endhighlight %}
 
-I play CTF's as a member of [@fr334aks-mini](https://twitter.com/fr334aksmini) and @t0x1c r0b0ts.
+I play CTF's as a member of @t0x1c r0b0ts.

@@ -41,12 +41,12 @@ plugins:
 
 text_skin: dark
 
-highlight_theme: default
+highlight_theme: tomorrow-night
 
 defaults:
   -
     scope:
-      path:
+      path: 
       type: posts
     values:
       permalink: /:title
