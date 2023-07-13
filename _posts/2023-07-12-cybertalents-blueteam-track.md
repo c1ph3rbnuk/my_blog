@@ -2,7 +2,7 @@
 layout: article
 title: CyberTalents Blue-Team Scholarship
 article_type: BlogPosting
-date: 2023-01-02
+date: 2023-07-12
 cover: "/assets/images/ctbt/cyberblue.jpeg"
 permalink: /:title.html
 tags: "soc threathunting"
