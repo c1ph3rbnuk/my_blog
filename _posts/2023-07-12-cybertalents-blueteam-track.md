@@ -21,3 +21,4 @@ In this post, i aim to share my notes, discoveries and hopefully triumphs as i n
 ### Certified SOC Analyst
 * [Introduction to Cyber Security](socfiles/intoduction_to_cybersecurity.html)  
 * [Introduction to SOC](socfiles/introduction_to_soc.html)  
+* [Networking Refresher](socfiles/network_refresher.html)  
