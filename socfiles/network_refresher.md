@@ -43,7 +43,9 @@ Historically, IP addresses were divided into classes (Class A, B, C, D, and E) b
 
 CIDR brought efficiency in managing IP address space. In CIDR notation, IP addresses are represented with a combination of the IP address and a slash ("/") followed by a number, which indicates the length of the network bits eg. 192.168.20.1/8 indicates there are 8 bits for network a the rest for host giving this IP a subnet mask of 11111111.00000000.00000000.00000000(255.0.0.0). This brought flexibility allowing network admins to create subnets of different sizes based on their needs. Same IP could be subnetted with slash 22(/22). Here we get 22 bits for network and 10 for hosts. 1111111.11111111.11111100.00000000(255.255.252.0)
 
-Learn more subnetting from [Professor-Messer](https://www.professormesser.com/network-plus/n10-007/classful-subnetting/)
+Learn more subnetting from [Professor-Messer](https://www.professormesser.com/network-plus/n10-007/classful-subnetting/)  
+
+[Subnetting Cheat Sheet](../files/Subnet-Guide.xlsx)
 
 
 #### MAC Address
