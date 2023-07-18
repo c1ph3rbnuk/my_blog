@@ -57,4 +57,8 @@ Please Check this [Nmap Guide](../files/Nmap_beinner.pdf) for details on how to 
 
 <br>
 
-We've discussed network security and some of the technologies available to safeguard our networks and protect ourselves from malicious actors. Moreover, we've reviewed some useful utilities and tools that help us discover our enviroments. Next time we'll go futher and take a practical approach by exploring the **Snort**, an open-source intrusion detection and prevention system. With Snort, we'll actively monitor network traffic, detect suspicious activities, and  do what we know how to do best; **Defend our networks against cyber threats**. Until then, stay curious, stay stafe. See ya! :smiley:
+We've discussed network security and some of the technologies available to safeguard our networks and protect ourselves from malicious actors. Moreover, we've reviewed some useful utilities and tools that help us discover our enviroments. In future series i'll demonstrate how to configure **pfsense** firewall and also take you through a practical exploration of **Snort**, an open-source intrusion detection and prevention system.  
+
+But next time, we'll learn how to use **Wireshark**, the world's most populalr network protocol analyzer. Wireshark will let us capture network packets, filter specific ones and analyze them.
+
+Until then, stay curious! See ya! :smiley:
