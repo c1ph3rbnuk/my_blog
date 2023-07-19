@@ -6,12 +6,12 @@ author: c1ph3rbnuk
 ---
 
 <img src="../assets/images/ctbt/wire.png">  
-**Wireshark** is a powerful, open-source network analysis tool that allows users to capture and inspect network traffic[cybersecuritynews]. Wireshark allows users to see all communications between devices happening within a network. Wireshark can too be used as a tool to sniff sensitive data like passwords flowing across a network. As SOC analysts, we'll use wireshark for forensics purposes. For most times it will be our go for tool for analyzing saved network traffic(trace files) and investigate suspicious activities.
+**Wireshark** is a powerful, open-source network analysis tool that allow users to capture and inspect network traffic[cybersecuritynews]. Wireshark allow users to see all communications between devices happening within a network. Wireshark can be used as a tool to sniff sensitive data like passwords flowing across a network. As SOC analysts, we'll use wireshark for forensics purposes. For most times it will be our go-for tool for analyzing saved network traffic(trace files) and investigate suspicious activities.
 
 Download and install Wireshark [Here](https://www.wireshark.org/) to follow along with me.
 
 ### Getting Started with Wireshark
-To start seeing packets flowing we'll need to perform a packet capture. This involves choosing from a list of network interfaces we have the click start. 
+To start seeing packets flowing we'll need to perform a packet capture. This involves choosing from a list of network interfaces we have then click start. 
 <img src="../assets/images/ctbt/firstcapture.png" width="900px">
 Once you click start, wireshark will be filled with alot of packets depending on how busy the network is.
 
@@ -33,7 +33,7 @@ In wireshark, Endpoints refers to devices in a network and Conversations refer t
 
 <img src="../assets/images/ctbt/conversations.png" width="900px">
 
-We can see a list of conversations between device A and B. This list offer insights like how many packets are transmitted between two devices, how many are from A to B(A -> B) or (B -> A) and even the duration of particular conversations. This statistics is very informative especially when we are trying to identify **Top talkers** in a network. Top talkers are the endpoints responsibe for the most communications like our device `192.168.43.24` is engaging so much with `104.18.2.161`. When you encouter conversations in your network that you know nothing about, that's suspicious. It's worthwhile to use the tool we discussed last time, **whois** , to dig more about the ownership of that IP.
+We can see a list of conversations between device A and B. This list offer insights like how many packets are transmitted between two devices, how many are from A to B(A -> B) or (B -> A) and even the duration of particular conversations. This statistics is very informative especially when we are trying to identify **Top talkers** in a network. Top talkers are the endpoints responsibe for the most communications like our device `192.168.43.24` is engaging so much with `104.18.2.161`. When you encouter conversations in your network that you know nothing about, that's suspicious. Use the tool we discussed last time, **whois** , to dig more about the ownership of that IP.
 
 <br>
 
@@ -54,7 +54,7 @@ You can also right click on a specific packet then **Apply as Filter > Selected*
 Check out this [Cheet Sheet](../files/Wireshark%20Cheat%20Sheet-1.pdf) to learn more about Wireshark Filters.
 
 ### Name Resolution
-Wireshark a feature called Name resolution with the ability to resolve IP address back to respective Domain names. Rather than displaying ip addresses(8.8.8.8) wireshark can be configured to display respective domain names(google.com), this makes analysis way easier. To enable this functionality, choose **Edit > Preferences > Name resolution**.
+Wireshark has a feature called Name resolution with the ability to resolve IP address back to respective Domain names. Rather than displaying ip addresses(8.8.8.8) wireshark can be configured to display respective domain names(google.com), this makes analysis way easier. To enable this functionality, choose **Edit > Preferences > Name resolution**.
 
 ![](../assets/images/ctbt/resolution.png)
 
