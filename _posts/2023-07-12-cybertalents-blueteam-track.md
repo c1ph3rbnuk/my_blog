@@ -19,10 +19,11 @@ In this post, i aim to share my notes, discoveries and hopefully triumphs as i n
 **The Battle Begins! Are You Ready?**
 
 ### Certified SOC Analyst
-* [Introduction to Cyber Security](socfiles/intoduction_to_cybersecurity.html)  
-* [Introduction to SOC](socfiles/introduction_to_soc.html)  
-* [Networking Refresher](socfiles/network_refresher.html)  
-* [Introduction to Network Security](socfiles/network_security.html) 
-* [Wireshark - The Network Packet Analyzer](socfiles/intro_to_wireshark.html)
-* [Tshark - Into the Commandline Realm](socfiles/Introduction_to_tshark.html)
-* [Endpoint Security](socfiles/endpoint_security.html)
+* [Introduction to Cyber Security](soc/intoduction_to_cybersecurity.html)  
+* [Introduction to SOC](soc/introduction_to_soc.html)  
+* [Networking Refresher](soc/network_refresher.html)  
+* [Introduction to Network Security](soc/network_security.html) 
+* [Wireshark - The Network Packet Analyzer](soc/intro_to_wireshark.html)
+* [Tshark - Into the Commandline Realm](soc/Introduction_to_tshark.html)
+* [Endpoint Security](soc/endpoint_security.html)
+* [Introduction to Web Security](soc/intro_to_web_security.html)
