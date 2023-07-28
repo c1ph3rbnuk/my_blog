@@ -26,4 +26,5 @@ In this post, i aim to share my notes, discoveries and hopefully triumphs as i n
 * [Wireshark - The Network Packet Analyzer](soc/intro_to_wireshark.html)
 * [Tshark - Into the Commandline Realm](soc/Introduction_to_tshark.html)
 * [Endpoint Security](soc/endpoint_security.html)
-* [Introduction to Web Security](soc/intro_to_web_security.html)
+* [Introduction to Web Security](soc/intro_to_web_security.html)   
+* [SQL Injection](soc/web_attacks.html)
