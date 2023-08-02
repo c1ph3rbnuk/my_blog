@@ -28,3 +28,5 @@ In this post, i aim to share my notes, discoveries and hopefully triumphs as i n
 * [Endpoint Security](soc/endpoint_security.html)
 * [Introduction to Web Security](soc/intro_to_web_security.html)   
 * [SQL Injection](soc/web_attacks.html)
+* [Path Traversal](soc/path_traversal.html)
+* [The Anatomy of Emails](soc/email_anatomy.html)
