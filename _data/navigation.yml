@@ -1,17 +1,7 @@
 header:
-  - titles:
-      # @start locale config
-      en      : &EN       Achievements
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      # @end locale config
-    url: achievements
-    
   - titles: 
       # @start locale config
-      en      : &EN       Archive
+      en      : &EN       Projects
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
@@ -25,18 +15,18 @@ header:
       zh-HK   : *ZH_HANT
       ko      : &KO       아카이브
       ko-KR   : *KO
-      fr      : &FR       Archives
+      fr      : &FR       Projects
       fr-BE   : *FR
       fr-CA   : *FR
       fr-CH   : *FR
       fr-FR   : *FR
       fr-LU   : *FR
       # @end locale config
-    url: archive
+    url: projects
 
   - titles:
       # @start locale config
-      en      : &EN       About
+      en      : &EN       Whoami
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN

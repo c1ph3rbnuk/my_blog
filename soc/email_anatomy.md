@@ -2,7 +2,8 @@
 layout: page
 title: Email-Based Phishing - Anatomy
 date: 2023-07-27
-author: c1ph3rbnuk
+aside:
+  toc: true
 ---
 ![](../assets/images/ctbt/hackphish.jpg)  
 

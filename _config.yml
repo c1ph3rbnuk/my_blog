@@ -24,8 +24,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   A library of what i do.
 baseurl: "/c1ph3rbnuk.github.io" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: c1ph3rbnuk
-github_username:  c1ph3rbnuk
+
+
+twitter_username: "c1ph3rbnuk"
+github_username:  "c1ph3rbnuk"
 bio: CTF player @t0x1c-r0b0ts | I do what scars me the most.
 
 # Build settings
@@ -38,9 +40,9 @@ plugins:
   - jemoji
 
 
-text_skin: dark
+text_skin: myskin
 
-highlight_theme: tomorrow-night
+highlight_theme: tomorrow-future
 
 defaults:
   -
@@ -56,6 +58,15 @@ analytics:
     tracking_id: "G-0RMD5NRJJ6"
     anonymize_ip: true
 
+
+mathjax: true
+mathjax_autoNumber: true
+
+# Mermaid
+mermaid: true
+
+# Chart
+chart: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.

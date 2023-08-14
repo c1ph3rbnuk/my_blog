@@ -6,6 +6,7 @@ date: 2023-07-12
 cover: "/assets/images/ctbt/cyberblue.jpeg"
 permalink: /:title.html
 tags: "soc threathunting"
+show_subscribe: true
 ---
 
 ### My Journey through SOC and Threat Hunting!
@@ -23,10 +24,10 @@ In this post, i aim to share my notes, discoveries and hopefully triumphs as i n
 * [Introduction to SOC](soc/introduction_to_soc.html)  
 * [Networking Refresher](soc/network_refresher.html)  
 * [Introduction to Network Security](soc/network_security.html) 
-* [Wireshark - The Network Packet Analyzer](soc/intro_to_wireshark.html)
-* [Tshark - Into the Commandline Realm](soc/Introduction_to_tshark.html)
+    * [Wireshark - The Network Packet Analyzer](soc/intro_to_wireshark.html)
+    * [Tshark - Into the Commandline Realm](soc/Introduction_to_tshark.html)
 * [Endpoint Security](soc/endpoint_security.html)
 * [Introduction to Web Security](soc/intro_to_web_security.html)   
-* [SQL Injection](soc/web_attacks.html)
-* [Path Traversal](soc/path_traversal.html)
-* [The Anatomy of Emails](soc/email_anatomy.html)
+    * [SQL Injection](soc/web_attacks.html)
+    * [Path Traversal](soc/path_traversal.html)
+* [The Anatomy of Emails](soc/email_anatomy.html)  
