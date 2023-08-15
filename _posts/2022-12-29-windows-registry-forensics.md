@@ -6,6 +6,7 @@ date: 2022-12-29
 cover: "/assets/images/winreg.png"
 permalink: /:title.html
 tags: "forensics windows registry"
+author: c1ph3rbnuk
 ---
 
 ### The Registry -

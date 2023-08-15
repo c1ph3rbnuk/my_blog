@@ -7,6 +7,7 @@ cover: "/assets/images/ctbt/cyberblue.jpeg"
 permalink: /:title.html
 tags: "soc threathunting"
 show_subscribe: true
+author: c1ph3rbnuk
 ---
 
 ### My Journey through SOC and Threat Hunting!

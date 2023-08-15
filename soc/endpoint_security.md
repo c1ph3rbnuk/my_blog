@@ -9,6 +9,7 @@ author: c1ph3rbnuk
 An endpoint is any device that is connected to a network; from laptops, PCs, servers, smart phones to all IoT devices and more. The number of endpoints in networks today has exploded. Todays' policies like BYOD(Bring Your Own Device) that allow employees to use their personal devices to access co-operate resources together with the remote workforces which has recently become the new norm - have greatly increased the attack surface.  
 - `Attack surface refers to a potential entry points and weaknesses that attackers could use to gain unauthorised access to systems. Basically all ways to break into a system.`
 
+
  __Every endpoint connected to the co-operate network is a gateway for cyber criminals to inflict more pain.__
 
 ### What is Endpoint Security?

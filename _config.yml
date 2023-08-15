@@ -30,6 +30,13 @@ twitter_username: "c1ph3rbnuk"
 github_username:  "c1ph3rbnuk"
 bio: CTF player @t0x1c-r0b0ts | I do what scars me the most.
 
+author:
+  name      : c1ph3rbnuk
+  email     : sweetimpurities11f@gmail.com
+  twitter   : c1ph3rbnuk # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
+  linkedin  : https://www.linkedin.com/in/peter-k-a6847320b/ # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
+  github    : c1ph3rbnuk # "user_name" the last part of your profile url, e.g. https://github.com/user_name
+
 # Build settings
 theme: jekyll-text-theme
 remote: jekyll-text-theme

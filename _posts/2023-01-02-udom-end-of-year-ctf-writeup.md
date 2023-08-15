@@ -6,6 +6,7 @@ date: 2023-01-02
 cover: "/assets/images/udomctf.png"
 permalink: /:title.html
 tags: "ctf writeup"
+author: c1ph3rbnuk
 ---
 
 This was an end of year jeopardy style CTF that ran from **12:00pm 31/12/2022** to **9:00pm 01/01/2023** organized by our friends from Tanzania. It was a solo run CTF challenge that each player played alone. I managed position 7 finally. The CTF challenges ranged from Steg(were preety tough), Crypto, Forensics, Web, etc..   
