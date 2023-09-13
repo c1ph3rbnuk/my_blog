@@ -31,4 +31,16 @@ In this post, i aim to share my notes, discoveries and hopefully triumphs as i n
 * [Introduction to Web Security](soc/intro_to_web_security.html)   
     * [SQL Injection](soc/web_attacks.html)
     * [Path Traversal](soc/path_traversal.html)
-* [The Anatomy of Emails](soc/email_anatomy.html)  
+* [The Anatomy of Emails](soc/email_anatomy.html)
+    * [Email Analysis](soc/email_analysis.html)
+* [Log Analysis - Introduction](soc/introduction_to_logs.html)
+    * [Windows Event Logs](soc/windows_event_logs.html)
+* [SIEM](soc/siem_architecture.html)
+    * [Splunk](soc/splunk.html)
+    * [SIEM Use Cases](soc/siem_usecases.html)
+* [Incident Response](soc/ir.html)  
+* [Digital Forensics - Disk Forensics](soc/disk_forensics.html)  
+    * [Memory Forensics](soc/memory_forensics.html)
+
+### Certified Threat Hunter
+* [Introduction to Cyber Threat Hunting](thrunt/introduction_to_thrunt.html)

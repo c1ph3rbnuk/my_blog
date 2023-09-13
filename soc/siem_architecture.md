@@ -4,6 +4,7 @@ title: SIEM
 date: 2023-08-11
 author: c1ph3rbnuk
 ---
+![](../assets/images/ctbt/user.png)
 
 Security Information and Event Management is a solution for managing an organization security posture by providing a centralized platform that monitors and consolidates multiple security related events withing an orgnization's network. The SIEM solution build up from 2 key components.  
 - **Security Information Management(SIM)** - this involves collecting all data from different log sources and end devices in the organizational network(firewall logs, system logs, application logs, web logs..etc) then stores them in a central repository or database where it can later be analyzed.
@@ -35,4 +36,5 @@ There are a dozen of SIEM tools in the industry today. Some are free and others 
 - **ELien Vault** -
 - **Elastic Serch** - 
 
-### Conclusion
+
+Next time we'll take a practical look on one of these tools; Splunk. We'll learn what it is, how it's deployed and how it's used. See ya :smiley:
