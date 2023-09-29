@@ -136,3 +136,21 @@ The Keyspace for a random substitution cipher utilizing letters in the english a
   "options": {}
 }
 ```
+<br>
+
+Imagine that we have intercepted this scrambled message.
+```UKBYBIPOUZBCUFEEBORUKBYBHOBBRFESPVKBWFOFERVNBCVBZPRUBOFERVNBCVBPCYYFVUFOFEIKNWFRFIKJNUPWRFIPOUNVNIPUBRNCUKBEFWWFDNCHXCYBOHOPYXPUBNCUBOYNRVNIWNCPOJIOFHOPZRVFZIXUBORJRUBZRBCHNCBBONCHRJZSFWNVRJRUBZRPCYZPUKBZPUNVPWPCYVFZIXUPUNFCPWRVNBCVBRPYYNUNFCPWWJUKBYBIPOUZBCUIPOUNVNIPUBRNCHOPYXPUBNCUBOYNRVNIWNCPOJIOFHOPZRNCRVNBCUNENVVFZIXUNCHPCYVFZIXUPUNFCPWZPUKBZPUNVR```
+Say we know that the original message was writen in english. Let's decipher it. The first step is to perform a frequency analysis of the letters. We could also perform frequency of pair of letters(digrams, trigrams...) wih this we can identify pairs line 'THE', ARE', 'ON', 'AT'...etc.
+
+![](../assets/images/crypto/freq_letters.png)
+
+It's evident that 'B' is the most frequent letter in the ciphertext. Let's assume its the substitute for 'E'. 'N' and 'U' are the next appearing letters. They could represent substitutes for 'A' and 'T'. Let's perform frequency analysis of 2 pairs and seee what's most common. 
+
+![](../assets/images/crypto/freq_bi.png)
+
+We notice that 'NC' is the most common. Therefore i could stand for 'IN', 'OF', 'BY', 'DO, 'IF'...etc.
+Let's look at thre most frequent trigram. 
+
+![](../assets/images/crypto/tri_freq.png)
+
+Well, we have 'UKB'. Assuming we were right with our choice of 'B' as a substitute of "E". It's fair to also asumme that 'U' is a substitute of 'T' and the trigram 'UKB' is a substitute of 'THE'.
