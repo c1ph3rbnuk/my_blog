@@ -9,4 +9,4 @@ Hey buddy! :smiley:, welcome to my cyber security blog. I'm Peter Kinyumu, a cyb
 <br>
 
 ### Achievements :tada:
-- **:3rd_place_medal: 3rd Place** - _CA CYBERSECURITY HACKATHON SERIES 2023, MOMBASA REGION (APT1337)._
+- **:3rd_place_medal: 3rd Place** - _CA CYBERSECURITY HACKATHON SERIES 2023, MOMBASA REGION (Team APT1337)._
