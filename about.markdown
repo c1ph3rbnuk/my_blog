@@ -8,5 +8,10 @@ Hey buddy! :smiley:, welcome to my cyber security blog. I'm Peter Kinyumu, a cyb
 
 <br>
 
+
+<script src="https://tryhackme.com/badge/478372"></script>
+
+
 ### Achievements :tada:
 - **:3rd_place_medal: 3rd Place** - _CA CYBERSECURITY HACKATHON SERIES 2023, MOMBASA REGION (Team APT1337)._
+- **:3rd_place_medal: 3rd Place** - _Daystar Hackathon 2024, CTF category (Team B3_H4ck3rs)_
