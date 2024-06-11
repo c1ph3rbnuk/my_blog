@@ -6,7 +6,8 @@ author: c1ph3rbnuk
 ---
 
 ### What is Access Control Security?
-![](../assets/images/cybershujaa/no-acess.jpg)
+<img src="../assets/images/cybershujaa/no-acess.jpg" width="100%" height="auto">
+
 > _"Access control is a security technique that regulates who or what can view or use resources in a computing environment[TechTarget]."_    
 
 This is important to protect the confidentiality, integrity and availability of data.
@@ -39,7 +40,7 @@ The goal is to manage all these accounts, giving them different access rights so
 IAM is a framework of policies, processes and technologies that ensures the right individual has the appropriate access to a resource. 
 
 #### IAM Components
-![](../assets/images/cybershujaa/components.png)
+<img src="../assets/images/cybershujaa/components.png" width="100%" height="auto">
 
 
 ### Access Control Models

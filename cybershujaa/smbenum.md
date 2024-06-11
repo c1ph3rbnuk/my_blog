@@ -9,7 +9,7 @@ author: c1ph3rbnuk
 
 The Server Message Block(SMB) protocol is a network communication protocol designed by IBM primarily for sharing files, printers and other resources over the network. This protocol is widely used by the Windows Operating system for file sharing. SMB operates on port 139(NetBIOS over TCP/IP) and directly on port 445 by default and follows the client-server architecture for communication.    
 
-<img src="../assets/images/cybershujaa/smb.webp" width="500px" height="300px">
+<img src="../assets/images/cybershujaa/smb.webp" width="100%" height="auto">
 
 > _NetBIOS(Network Basic Input and Output Service) is a legacy protocol that allows applications in different computers to communicate over LAN._    
 
@@ -23,14 +23,14 @@ SMB enumeration refers the process of gathering information about the target sys
 #### Port scanning
 First we try to identy if port 139,445 are open.  
 
-<img src="../assets/images/cybershujaa/smbservice.png" width="700" height="200">
+<img src="../assets/images/cybershujaa/smbservice.png" width="100%" height="auto">
 
 We can then use the default sccript `-sC` and try to enumerate the two services for more information. 
 
-<img src="../assets/images/cybershujaa/basicscript.png" width="800" height="400">
+<img src="../assets/images/cybershujaa/basicscript.png" width="100%" height="auto">
 
 We can also try to list the shares using the `smbclient` tool. From the screenshot below, we are not able to anonymously list the shares. 
 
-<img src="../assets/images/cybershujaa/smblist.png" width="700" height="200">
+<img src="../assets/images/cybershujaa/smblist.png" width="100%" height="auto">
 
 The next step we could take is ti enumerate the services using the nmap smb scripts `/usr/share/nmap/scripts/smb*`

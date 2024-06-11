@@ -23,3 +23,5 @@ I got accepted for the [CyberShujaa](https://cybershujaa.co.ke) Security Analyst
 * [Threat Intellligence 101](cybershujaa/thret_intel101.html)
 * [Vulnerability Assessment](cybershujaa/vulnerability_assessment.html)
 * [Acccess Control Security](cybershujaa/acs.html)
+* [Active Directory - Overview](cybershujaa/adservice.html)
+    * [Active Directory - Lab Setup](cybershujaa/adlab.html)
