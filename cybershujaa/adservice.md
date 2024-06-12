@@ -23,7 +23,7 @@ It is an Identity Management Service that let's you centrally manage user accoun
 a. **_Objects_** - Every object has an associated set of attributes.
     - Users - they are the main reason why we care about active directory. Everyone logging into the network will require a user account.
     - Computers - they are a special form os user accounts that help authenticate computers to the network and establish trust relation ships between the computer and the domain.
-    - Contracts - used primarity to assign email addresses to external users.
+    - Contacts - used primarity to assign email addresses to external users.
     - Groups - used to simplify the administration of access control
     - Printers - used to simplify the process of locating and connecting to printers.   
 
@@ -55,7 +55,7 @@ If the entire process completes appropriately, the user will be permitted to acc
 ~[HackTheBox]
 
 #### Kerberos Authentication Analogy
-Imagine you are attending a VIP hackathon called "GlobalHack" that only invited members can participate because winners are going to be awarded a job in NASA. 
+Imagine you are attending a VIP hackathon called "GlobalHack" that only invited members can participate because winners are going to be awarded a job in NSA. 
 
 1. **Registration and Check in(CLient Authentication)** - you arrive at the venue and you flash a wide smile to the registrar. :smiley: You proceed to say "Hello, I'm here for the hackathon event!" The registrar says, "Welcome, but i need to verify your identity first. Please show me your invitation." You present your invitation and the registrar scans it to validate your details. "Wow! Mr Robot, Congratulations! Here is your VIP badge :name_badge: and may the best Hacker win!" (That's simmilar to getting the ticket granting ticket. The badge prooves you are a verified attendee and you can access different challenge booths.)
 
