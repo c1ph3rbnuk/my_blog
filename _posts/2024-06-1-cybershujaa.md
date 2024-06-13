@@ -25,3 +25,4 @@ I got accepted for the [CyberShujaa](https://cybershujaa.co.ke) Security Analyst
 * [Acccess Control Security](cybershujaa/acs.html)
 * [Active Directory - Overview](cybershujaa/adservice.html)
     * [Active Directory - Lab Setup](cybershujaa/adlab.html)
+    * [Active Directory - Initial Attack vectors](cybershujaa/initial_attack_vectors.html)
